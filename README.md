@@ -1,22 +1,29 @@
-📝 Creation of a Grade Average calculator to find out if the final grade was sufficient or not for approval.
+💰 Currency Converter
+
+✨ Calculator that performs the main functions and converts Dollars into Reais.
 
 🤎 < made with lobe & joy />
 
 📌 SPECS
 
 
-✨ variables
-
-✨ strings 
-
-✨ console.log 
-
-✨ toFixed 
-
-✨ main math operations 
+✨ main math operations
 
 ✨ concatenation
 
+✨ toFixed 
+
 ✨ if and else conditionals.
 
-✨ parseFloat 
+✨  parseFloat(value)
+
+✨  parseInt(value)
+
+✨ Used Functions to integrate HTML and JS
+
+
+
+
+
+
+
