@@ -2,7 +2,7 @@
 
 ✨ Calculator that performs the main functions and converts Dollars into Reais.
 
-🤎 < made with lobe & joy />
+🤎 < made with love & joy />
 
 📌 SPECS
 
