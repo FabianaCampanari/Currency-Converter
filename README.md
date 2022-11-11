@@ -13,7 +13,7 @@
 
 ✨ toFixed 
 
-✨ if and else conditionals.
+✨ if and else conditionals
 
 ✨  parseFloat(value)
 
